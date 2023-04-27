@@ -60,8 +60,8 @@
     height: 24px;
     left: 170px;
     top: 24px;
-    background: linear-gradient(90.29deg, #7F34DE 5.02%, #0DA492 104.13%), linear-gradient(180deg, #484E56 17.71%, #3B4048 90.44%);
-    box-shadow: 0px 0px 1.75499px rgba(0, 0, 0, 0.35);
+    background: #282B30;
+    box-shadow: inset 0px 1.31624px 8.77493px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
 }
 #head2{
@@ -78,11 +78,11 @@
     display: flex;
     align-items: center;
     text-align: center;
-    background: linear-gradient(0deg, #FFFFFF, #FFFFFF), linear-gradient(90.82deg, #7F34DE 0.32%, #0DA492 99.29%);
+    background: linear-gradient(0deg, #4C515C, #4C515C), linear-gradient(90.82deg, #7F34DE 0.32%, #0DA492 99.29%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    /* text-fill-color: transparent; */
+/* text-fill-color: transparent; */
 }
 #sbox{
     /* border: 1px solid red; */
@@ -91,8 +91,8 @@
     height: 24px;
     left: 247px;
     top: 24px;
-    background: #282B30;
-    box-shadow: inset 0px 1.31624px 8.77493px rgba(0, 0, 0, 0.15);
+    background: linear-gradient(90.29deg, #7F34DE 5.02%, #0DA492 104.13%), linear-gradient(180deg, #484E56 17.71%, #3B4048 90.44%);
+    box-shadow: 0px 0px 1.75499px rgba(0, 0, 0, 0.35);
     border-radius: 4px;
 }
 #head3{
@@ -109,7 +109,7 @@
     display: flex;
     align-items: center;
     text-align: center;
-    color: #4C515C;
+    color: #FFFFFF;
 }
 #hr{
     position: absolute;
@@ -220,7 +220,7 @@
 #img3{
     height: 16px;
     width: 16px;
-    margin-left: 11.32px;
+    margin-left: 25.32px;
     margin-top: 11px;
 }
 #head8{
@@ -229,7 +229,7 @@
     height: 15px;
     width: 40px;
     margin-top: -20px;
-    margin-left: 32px;  
+    margin-left: 45.73px;  
     font-family: 'Rubik', sans-serif;
     font-style: normal;
     font-weight: 500;
