@@ -5,5 +5,5 @@ function withdraw(){
 
 document.querySelector("#head2").addEventListener("click",deposit);
 function deposit(){
-    window.location.replace("deposit.html")
+    window.location.replace("index.html")
 }
